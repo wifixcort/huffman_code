@@ -1,3 +1,4 @@
+# Author: Ricardo Mena Cortés
 # La siguiente herramienta toma un archivo .CSV con los encabezados(Simbolo, probabilidad) de un alfabeto
 # y determina el código huffman correspondiente a cada uno de los símbolos proporcionados
 
